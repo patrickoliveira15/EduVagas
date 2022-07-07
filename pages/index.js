@@ -37,7 +37,7 @@ export default function Home() {
             href="https://drive.google.com/file/d/1l-3ZAmDXby15ROs5pN6EVx9d2YD6af2f/view?usp=sharing"
             className={styles.card}
           >
-            <h2>Analista de testes - Jest - Pleno ou Sênior</h2>
+            <h2>Analista de testes - cypress - Jest - Pleno ou Sênior</h2>
             <p>Clique aqui e acesse o Edital</p>
           </a>
 
